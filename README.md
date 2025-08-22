@@ -21,3 +21,10 @@
                     <a href="#">Search</a>
                 </div>
             </div>
+            div class="library ">
+                <div class="options">
+                    <div class="lib-options nav-option" >
+                    <img src="library_icon.png" alt="library icon">
+                    <a href="#">Your Library</a>
+                </div>
+                
