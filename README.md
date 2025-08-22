@@ -101,6 +101,21 @@
                         <p class="card-title">Top 50 - Global</p>
                         <p class="card-info">Your daily updates of the most played...</p>
                     </div>
+                     <div class="card">
+                        <img src="card6img.jpeg" alt="cardimg" class="card-img">
+                        <p class="card-title">Top Songs - India</p>
+                        <p class="card-info">Your daily updates of the most played...</p>
+                    </div>
+                    <div class="card">
+                        <img src="card1img.jpeg" alt="cardimg" class="card-img">
+                        <p class="card-title">Top 50 - Global</p>
+                        <p class="card-info">Your daily updates of the most played...</p>
+                    </div>  
+                </div>  
+                <div class="footer">
+                    <div class="line"></div>
+                </div> 
+        </div>
                     
                     
                 
