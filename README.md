@@ -46,5 +46,17 @@
             </div>
             </div>
         </div>
+         <div class="main_content">
+              <div class="sticky-nav">
+                <div class="sticky-nav-icons">
+                    <img src="backward_icon.png" alt="backward_icon">
+                    <img src="forward_icon.png" alt="forward_icon" class="hide">
+                </div>
+                <div class="sticky-nav-options">
+                    <button class="badge nav-items hide">Explore Premium</button>
+                    <button class="badge nav-items dark-badge"><i class="fa-regular fa-circle-down" style="margin-left: 5px;"></i>Install App</button>
+                    <i class="fa-regular fa-user nav-items dark-badge"></i>
+                </div>
+            </div>
         
                 
