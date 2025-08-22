@@ -58,5 +58,28 @@
                     <i class="fa-regular fa-user nav-items dark-badge"></i>
                 </div>
             </div>
+            <h2>Recently Played</h2>
+                <div class="cards-container">
+                    <div class="card">
+                        <img src="card1img.jpeg" alt="cardimg" class="card-img">
+                        <p class="card-title">Top 50 - Global</p>
+                        <p class="card-info">Your daily updates of the most played...</p>
+                    </div>
+                </div>
+             <h2>Trending now near you</h2>
+                <div class="cards-container">
+                    <div class="card">
+                        <img src="card2img.jpeg" alt="cardimg" class="card-img">
+                        <p class="card-title">Top 50 - Global</p>
+                        <p class="card-info">Your daily updates of the most played...</p>
+                    </div>
+                    <div class="card">
+                        <img src="card3img.jpeg" alt="cardimg" class="card-img">
+                        <p class="card-title">Top 50 - Global</p>
+                        <p class="card-info">Your daily updates of the most played...</p>
+                    </div>
+                    
+                    
+                
         
                 
