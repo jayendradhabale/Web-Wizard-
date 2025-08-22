@@ -27,4 +27,24 @@
                     <img src="library_icon.png" alt="library icon">
                     <a href="#">Your Library</a>
                 </div>
+                                <div class="icons">
+                    <i class="fa-solid fa-plus"></i>
+                    <i class="fa-solid fa-arrow-right"></i>
+                </div>
+            </div>
+            <div class="lib-box">
+                <div class="box">
+                    <p class="box-p1">Create your first playlist</p>
+                    <p class="box-p2">It's easy,we'll help you</p>
+                    <button class="badge">Create playlist</button>
+                </div>
+                 <div class="box">
+                    <p class="box-p1">Let's find some podcast to follow</p>
+                    <p class="box-p2">We'll keep you updated on new episodes</p>
+                    <button class="badge">Browse podcast</button>
+                </div>
+            </div>
+            </div>
+        </div>
+        
                 
